@@ -1,0 +1,16 @@
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Bussiness\bin\Debug\netcoreapp3.1\ToDoList.Bussiness.deps.json
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Bussiness\bin\Debug\netcoreapp3.1\ToDoList.Bussiness.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Bussiness\bin\Debug\netcoreapp3.1\ToDoList.Bussiness.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Bussiness\bin\Debug\netcoreapp3.1\ToDoList.Core.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Bussiness\bin\Debug\netcoreapp3.1\ToDoList.DataAccess.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Bussiness\bin\Debug\netcoreapp3.1\ToDoList.Entities.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Bussiness\bin\Debug\netcoreapp3.1\ToDoList.Core.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Bussiness\bin\Debug\netcoreapp3.1\ToDoList.DataAccess.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Bussiness\bin\Debug\netcoreapp3.1\ToDoList.Entities.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Bussiness\obj\Debug\netcoreapp3.1\ToDoList.Bussiness.csprojAssemblyReference.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Bussiness\obj\Debug\netcoreapp3.1\ToDoList.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Bussiness\obj\Debug\netcoreapp3.1\ToDoList.Bussiness.AssemblyInfo.cs
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Bussiness\obj\Debug\netcoreapp3.1\ToDoList.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Bussiness\obj\Debug\netcoreapp3.1\ToDoList.Bussiness.csproj.CopyComplete
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Bussiness\obj\Debug\netcoreapp3.1\ToDoList.Bussiness.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Bussiness\obj\Debug\netcoreapp3.1\ToDoList.Bussiness.pdb

@@ -1,0 +1,9 @@
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.Core.deps.json
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.Core.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Core\bin\Debug\netcoreapp3.1\ToDoList.Core.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.AssemblyInfoInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.AssemblyInfo.cs
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.csproj.CoreCompileInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\ToDoList\ToDoList.Core\obj\Debug\netcoreapp3.1\ToDoList.Core.csprojAssemblyReference.cache

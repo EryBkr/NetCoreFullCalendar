@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/lib/fontawesome/css/all.min.css" rel="stylesheet" />
+    <link href="~/lib/alertify/alertify.core.min.css" rel="stylesheet" />
+    <link href="~/lib/alertify/alertify.bootstrap.min.css" rel="stylesheet" />
+    @RenderSection("Styles", required: false)
+
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-5">
+        <div class="container-fluid">
+            <a class="navbar-brand" asp-action="Index" asp-controller="Profile">Full Calendar</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarColor02">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Hoşgeldiniz @User.Identity.Name</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-action="LogOut" asp-controller="Account">Log Out</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" asp-action="LogIn" asp-controller="Account">Login</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-action="Register" asp-controller="Account">Register</a>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container my-2">
+        @RenderBody()
+    </div>
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <script src="~/lib/jquery/validation/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery/validation/jquery.validate.unobtrusive.min.js"></script>
+
+    <script src="~/lib/fontawesome/js/all.min.js"></script>
+
+    <script src="~/lib/alertify/alertify.min.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
